@@ -53,3 +53,6 @@ From the waveform, we can see the write operation where the data_in value is sto
 
 ### Conclusion
     The synchronous RAM module is a fundamental digital component that mimics how real-world memory systems work. The Verilog implementation simulates memory with both read and write operations, synchronized with the clock signal. By using a testbench to verify the functionality, the design is tested for correctness. The generated VCD file allows us to observe the signal transitions and validate the RAM module’s behavior. This process of designing, simulating, and verifying the module helps in understanding memory operations in a digital system.
+
+### Output: 
+![output](https://github.com/mr-subbu/Task2/blob/main/IMG-20250325-WA0016.jpg)
